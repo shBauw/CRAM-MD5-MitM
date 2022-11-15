@@ -1,0 +1,13 @@
+EHLO 127.0.0.1
+RSET
+MAIL FROM:<1112@usyd.org>
+RCPT TO:<david@shi.com>
+RCPT TO:<tiancheng.mai@gmail.com>
+NOOP
+DATA
+Date: Mon, 14 Sep 1987 23:07:00 +1000
+Subject: Changed example email
+Get rekt gg
+<3
+.
+QUIT

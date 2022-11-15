@@ -1,0 +1,24 @@
+S: 220 Service ready
+C: EHLO 127.0.0.1
+S: 250 127.0.0.1
+S: 250 AUTH CRAM-MD5
+C: MAIL FROM:<1112@usyd.org>
+S: 250 Requested mail action okay completed
+C: RCPT TO:<david@shi.com>
+S: 250 Requested mail action okay completed
+C: RCPT TO:<tiancheng.mai@gmail.com>
+S: 250 Requested mail action okay completed
+C: DATA
+S: 354 Start mail input end <CRLF>.<CRLF>
+C: Date: Mon, 14 Sep 1987 23:07:00 +1000
+S: 354 Start mail input end <CRLF>.<CRLF>
+C: Subject: Changed example email
+S: 354 Start mail input end <CRLF>.<CRLF>
+C: Get rekt gg
+S: 354 Start mail input end <CRLF>.<CRLF>
+C: <3
+S: 354 Start mail input end <CRLF>.<CRLF>
+C: .
+S: 250 Requested mail action okay completed
+C: QUIT
+S: 221 Service closing transmission channel
